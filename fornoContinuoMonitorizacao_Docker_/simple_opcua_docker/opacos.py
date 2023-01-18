@@ -1,0 +1,63 @@
+
+# names and the diferent identifiers of the respective names
+#ESTAS COLUNAS AINDA ESTÃO MAL, MUDAR!
+carbo_mes = {
+    "carbo_temp_z1_mes": "16F7600273308D29A6251453197CCC83",
+    "carbo_temp_z2_mes": "86E6032D45A09FDAD12826129E915080",
+    "carbo_temp_z3_mes": "D6655079B5995FEDD8B1E22AC7F8DFD8",
+    "carbo_temp_z4_mes": "8D0A2C9FE3B0916A0E62498F1499CA1E",
+    "carbo_temp_z5_mes": "CCE968D195418608A197D0BEF4D1265A",
+    "azoto_n2_mes": "A10DEA9E10A6625F762B2FB08AC07AA8",
+    "amoniaco_nh3_mes": "6892238FEA89EDC1149CE19B09664628",
+    "gas_ch4_mes": "8D685AF7C1CBF5951C819FF78579AD21",
+    "metanol_ch3oh_mes": "9765609C340ACF7C65CF47A0F9FD5EC5",
+    "o2_mes": "CD13505F9F8FAB725DDFA5DC534FCE08",
+    "c_mes": "B5F51CA96EC2CCAB7347F57525861463",
+}
+
+carbo_con = {
+    "carbo_temp_z1_con": "8295185D7AC06127688AED2F1B93FBDE",
+    "carbo_temp_z2_con": "C9E85762D4D9658E4682F09D1CC567CE",
+    "carbo_temp_z3_con": "68AE54E7E047945545B3154079832B84",
+    "carbo_temp_z4_con": "9E3DA1A11510886F2BDBBABFCD64F26A",
+    "carbo_temp_z5_con": "6A95248DBC4DAE448799479D4EEE46C4",
+    "azoto_n2_con": "1B38E119A20214B3D0CB544C1A0F6AB7",
+    "amoniaco_nh3_con": "D27E34B30F06EC6798FB2260CC0BECF1",
+    "gas_ch4_con": "D85A8584E516E97550D9CD54BDA0BD73",
+    "metanol_ch3oh_con": "D928134A4A111693A80F9FB178F7FA7C",
+}
+
+preox_mes = {
+    "preox_temp_z1_mes": "8295185D7AC06127688AED2F1B93FBDE",
+    "preox_temp_z2_mes": "C9E85762D4D9658E4682F09D1CC567CE",
+    "preox_temp_z3_mes": "68AE54E7E047945545B3154079832B84",
+}
+
+preox_con = {
+    "preox_temp_z1_con": "8295185D7AC06127688AED2F1B93FBDE",
+    "preox_temp_z2_con": "C9E85762D4D9658E4682F09D1CC567CE",
+    "preox_temp_z3_con": "68AE54E7E047945545B3154079832B84",
+}
+
+rev_mes = {
+    "rev_temp_z1_mes": "E508929D67F24FDDAB910A0A9265A102",
+    "rev_temp_z2_mes": "58EE09C9721B793549967BD2F41EE3CE",
+    "rev_temp_z3_mes": "A5D5C4DD03B84D5ABB9CEAE3C4208FCE",
+    "rev_temp_z4_mes": "B66BC439EFBB7478622D90E6D2F80747",
+
+}
+
+rev_con = {
+    "rev_temp_z1_con": "4262A99EF612003FA9AB89942BDA60C4",
+    "rev_temp_z2_con": "BF0A39084A50010115CED160F313D897",
+    "rev_temp_z3_con": "73D70191E780603D040F39769334C2B1",
+    "rev_temp_z4_con": "4D7D33F199E405189185696F1E2F61E4",
+}
+
+temp_mes = {
+    "tempera_temp_mes": "C06B38C9B887DA9E9D1B1F2B855AE530",
+}
+
+temp_con = {
+    "tempera_temp_con": "635E90EF00787FFBD1359E04A936107E",
+}
